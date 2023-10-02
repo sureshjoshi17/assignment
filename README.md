@@ -34,8 +34,8 @@
 
 ### Project setup instruction
     1. Create a Dir
-    2. clone github repo
-        -git clone repo_link
+    2. clone master branch form github repo
+        - git clone -b master https://github.com/sureshjoshi17/assignment.git
 
 ## backend
     1. Move to backend dir
